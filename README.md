@@ -1,4 +1,4 @@
-﻿![](/home/brad/Documents/Formularity/Fonts%20and%20Logos/Formularity%20Webclip.svg)
+﻿![](Formularity%20Webclip.svg)
 
 # SELF2026
 
