@@ -1,10 +1,12 @@
-﻿# SELF2026
+﻿![](/home/brad/Documents/Formularity/Fonts%20and%20Logos/Formularity%20Webclip.svg)
+
+# SELF2026
 
 This repository has all the slides and instructions for the "So Why Haven't You Switched Over to Linux Full Time Yet??" presentation at South East Linux Fest 2026
 
 There’s always that one critical Windows-only application you can’t live without. This is a hands-on step-by-step demonstration on how to seamlessly integrate Windows apps into the Linux desktop. Pitched to beginners and intermediate users.
 
-So Why Haven’t You Switched Over to Linux Full Time Yet???
+#### So Why Haven’t You Switched Over to Linux Full Time Yet???
 
 You like Linux but you haven’t given up your Windows yet.  Why? Let’s recognize the “elephant in the room”.  There is one (or more) applications that you use but isn’t available for Linux. You’d love to switch but you can’t go without this application, so you stay with Windows on a daily basis and play around with Linux.  This presentation addresses how you can switch to Linux and still have those critical Windows applications available.
 
