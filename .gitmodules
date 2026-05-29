@@ -1,0 +1,3 @@
+[submodule "rdpwrap"]
+	path = rdpwrap
+	url = https://github.com/stascorp/rdpwrap
