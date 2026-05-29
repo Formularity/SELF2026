@@ -1,3 +1,6 @@
 [submodule "rdpwrap"]
 	path = rdpwrap
 	url = https://github.com/stascorp/rdpwrap
+[submodule "RemoteApp"]
+	path = RemoteApp
+	url = https://github.com/kimmknight/remoteapptool
