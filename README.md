@@ -1,8 +1,8 @@
-﻿![](Formularity%20Webclip.svg)
+﻿<img src="Formularity%20Webclip.svg" title="" alt="" data-align="center">
 
 # SELF2026
 
-This repository has all the slides and instructions for the "So Why Haven't You Switched Over to Linux Full Time Yet??" presentation at South East Linux Fest 2026
+This repository has all the slides and instructions for the "So Why Haven't You Switched Over to Linux Full Time Yet??" presentation at South East Linux Fest 2026. Presented by Brad Whitehead, Chief Scientist, [Formularity](https://formularity.com)
 
 There’s always that one critical Windows-only application you can’t live without. This is a hands-on step-by-step demonstration on how to seamlessly integrate Windows apps into the Linux desktop. Pitched to beginners and intermediate users.
 
@@ -15,9 +15,19 @@ The presentation will begin by discussing a number of Linux/Windows solutions, i
 The majority of the presentation will concentrate on virtual machines.  We have used “Windows desktop in a Linux window” with virtual machines for a number of years.  This is an awkward solution.  Today, using “seamless” remote desktop protocol (RDP) and Microsoft’s “Remote Applications Integrated Locally (RAIL)” feature, we can put Windows application icons on the Linux desktop (or Application Menu) and launch just that application in a Linux window.  As the name suggests, Windows applications can become seamlessly integrated into Linux.
 
 The majority of the time of this presentation will be spend demonstrating how to: 
-    • install an open source virtual machine manager on a Linux distribution,
-    • install Windows 11 into this virtual machine,
-    • install an open source seamless RDP client on the Linux distribution,
-    • setup the applications to be shared on the Windows side,
-    • Setup the shared application icons on the Linux side, and
-    • Use our newly integrated “Windows on Linux (WOL)” applications.
+
+- install an open source virtual machine manager on a Linux distribution,
+
+- install Windows 11 into this virtual machine,
+
+- install an open source seamless RDP client on the Linux distribution,
+
+- setup the applications to be shared on the Windows side,
+
+- setup the shared application icons on the Linux side, and
+
+- Use our newly integrated “Windows on Linux (WOL)” applications.
+
+
+
+**[Formularity](https://formularity.com) is an Electronic Enrollment Forms company.**
