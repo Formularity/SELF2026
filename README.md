@@ -1,4 +1,4 @@
-﻿![](Formularity%20Webclip.svg)
+﻿![](/home/brad/Documents/Formularity/Presentations/SELF2026/SELF%202026%20GitHub/Formularity%20Webclip.svg)
 
 # SELF2026
 
