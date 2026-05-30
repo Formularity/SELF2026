@@ -4,3 +4,6 @@
 [submodule "RemoteApp"]
 	path = RemoteApp
 	url = https://github.com/kimmknight/remoteapptool
+[submodule "rdpwrap.ini"]
+	path = rdpwrap.ini
+	url = https://github.com/sebaxakerhtc/rdpwrap.ini
